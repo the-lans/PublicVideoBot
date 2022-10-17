@@ -1,0 +1,16 @@
+[
+{
+    "domain": ".youtube.com",
+    "expirationDate": 1699349817,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "XXX",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "xxx",
+    "id": 1
+}
+]
